@@ -1,0 +1,18 @@
+# Compiled source #
+###################
+*.pyc
+
+# Logs and databases #
+######################
+*.out
+*.log
+supervise/
+data/
+log/
+bak/
+.idea/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
